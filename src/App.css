@@ -23,7 +23,7 @@
 }
 
 .heart {
-  color: #ff00b8;
+  color: blue;
 }
 
 .small {
@@ -33,9 +33,9 @@
 .button:link, .button:visited {
   border-radius: 99px;
   color: #fff;
-  background-color: #ff00b8;
+  background-color: blue;
   cursor: pointer;
-  border: 15px solid #ff00b8;
+  border: 15px solid blue;
   text-decoration: none;
 }
 
